@@ -12,4 +12,5 @@
     <string name="name_hint">Name</string>
     <string name="address_hint">Address</string>
     <string name="phone_number_hint">Phone number</string>
+    <string name="birthday_selection_header">Select your birthday below</string>
 </resources>
