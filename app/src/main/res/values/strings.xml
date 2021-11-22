@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">HW1_Android1</string>
+    <string name="sign_up_header">Sign Up and Sign In</string>
+    <string name="push_notifications_text">Receive push notifications</string>
+    <string name="newsletter_subscription_toggle_off">Subscribe to our newsletter</string>
+    <string name="newsletter_subscription_toggle_on">Newsletter subscription on</string>
+    <string name="terms_checkbox_text">I agree to the terms and conditions</string>
+    <string name="sign_up_button_text">Sign up and sign in</string>
+    <string name="user_data_header">User Data</string>
+    <string name="user_email_hint">User Email</string>
+    <string name="password_hint">Password</string>
+    <string name="name_hint">Name</string>
+    <string name="address_hint">Address</string>
+    <string name="phone_number_hint">Phone number</string>
+    <string name="birthday_selection_header">Select your birthday below</string>
 </resources>
